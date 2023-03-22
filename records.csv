@@ -1,0 +1,26 @@
+name,ip_address,email,date,prediction,risk_label
+Ana,103.182.69.43,anajessica@gmail.com,11-03-2023,0,Legit
+Ana,103.182.69.43,anajessica@gmail.com,11-03-2023,0,Legit
+Ana,103.182.69.43,anajessica@gmail.com,11-03-2023,0,Legit
+Ana,100.182.69.43,anajessica@gmail.com,11-03-2023,1,High risk
+Febi,103.182.69.22,anajessica15022002@gmail.com,2023-03-12 02:38:00.263432,0,Low risk
+Febi,103.182.69.45,anajessica15022002@gmail.com,2023-03-12 18:52:46.728018,0,Low risk
+Febi,103.182.69.45,anajessica15022002@gmail.com,2023-03-12 18:53:49.186611,0,Low risk
+Anitha,103.182.69.45,anajessica15022002@gmail.com,2023-03-12 18:59:49.962425,0,High risk
+Anitha,103.182.69.45,anajessica15022002@gmail.com,2023-03-12 19:00:23.604632,0,High risk
+Anitha,103.182.69.45,anajessica15022002@gmail.com,2023-03-12 19:04:41.162097,0,Low risk
+Anitha,103.182.69.45,anajessica15022002@gmail.com,2023-03-12 19:10:47.923864,0,High risk
+Febi,103.182.69.18,anajessica15022002@gmail.com,2023-03-13 12:17:59.623246,0,Low risk
+Anitha,103.182.69.37,anajessica15022002@gmail.com,2023-03-15 15:00:43.489045,0,Low risk
+Aaron,103.182.69.34,anajessica15022002@gmail.com,2023-03-17 00:36:40.427339,0,Legit
+Aaron,103.182.69.34,anajessica15022002@gmail.com,2023-03-17 02:57:10.317800,0,Low risk
+Anya,2409:4072:411:3625:7004:383e:3432:3b9b,febiv2434@gmail.com,2023-03-20 13:44:53.978300,0,Low risk
+Febi,2409:4072:411:3625:7004:383e:3432:3b9b,anajessica15022002@gmail.com,2023-03-20 13:46:50.195118,0,Low risk
+Febi,2409:4072:411:3625:7004:383e:3432:3b9b,anajessica15022002@gmail.com,2023-03-20 13:48:07.469503,0,High risk
+Febi,2409:4072:411:3625:7004:383e:3432:3b9b,anajessica15022002@gmail.com,2023-03-20 13:52:37.735049,0,Low risk
+Ana,2401:4900:231d:b65e:adb:9446:fe91:f0d,anajessica150022002@gmail.com,2023-03-20 14:00:59.140495,0,Low risk
+Ana,2401:4900:231d:b65e:adb:9446:fe91:f0d,anajessica15022002@gmail.com,2023-03-20 14:02:00.603778,0,Low risk
+Anne,2401:4900:2325:7048:129d:d084:3a2f:3435,annne123@gmail.com,2023-03-20 14:09:32.147471,0,Legit
+Anne,2401:4900:2325:7048:129d:d084:3a2f:3435,annne123@gmail.com,2023-03-20 14:12:31.249807,0,Low risk
+Ana,2401:4900:2325:7048:129d:d084:3a2f:3435,anajessica15022002@gmail.com,2023-03-20 14:13:31.778462,0,High risk
+Anne,2401:4900:2325:7048:c654:5c48:6698:9556,anajessica15022002@gmail.com,2023-03-20 14:53:48.577633,0,Low risk
